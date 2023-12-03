@@ -1,0 +1,7 @@
+C:\Users\Ornare\source\repos\Exercício 03 For Tabuada de um Número Específico\bin\Debug\Exercício 03 For Tabuada de um Número Específico.exe.config
+C:\Users\Ornare\source\repos\Exercício 03 For Tabuada de um Número Específico\bin\Debug\Exercício 03 For Tabuada de um Número Específico.exe
+C:\Users\Ornare\source\repos\Exercício 03 For Tabuada de um Número Específico\bin\Debug\Exercício 03 For Tabuada de um Número Específico.pdb
+C:\Users\Ornare\source\repos\Exercício 03 For Tabuada de um Número Específico\obj\Debug\Exercício 03 For Tabuada de um Número Específico.csproj.AssemblyReference.cache
+C:\Users\Ornare\source\repos\Exercício 03 For Tabuada de um Número Específico\obj\Debug\Exercício 03 For Tabuada de um Número Específico.csproj.CoreCompileInputs.cache
+C:\Users\Ornare\source\repos\Exercício 03 For Tabuada de um Número Específico\obj\Debug\Exercício 03 For Tabuada de um Número Específico.exe
+C:\Users\Ornare\source\repos\Exercício 03 For Tabuada de um Número Específico\obj\Debug\Exercício 03 For Tabuada de um Número Específico.pdb
